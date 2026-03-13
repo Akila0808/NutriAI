@@ -1,0 +1,5 @@
+{
+  "name": "NutriAI",
+  "description": "AI-Powered Indian Smart Nutrition & Health Assistant for analyzing Indian food, tracking habits, and personalized diet plans.",
+  "requestFramePermissions": ["camera"]
+}
